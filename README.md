@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm EMRE KAYA</h1>
+<h1 align="center">Hello 👋 , I am Emre KAYA</h1>
 <h3 align="center">A passionate machine learning developer from TURKEY</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrekayah&label=Profile%20views&color=0e75b6&style=flat" alt="emrekayah" /> </p>
 
 - 📫 How to reach me **emrekaya5007@gmail.com**
 
